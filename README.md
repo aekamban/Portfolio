@@ -47,7 +47,7 @@ Key methodologies include:
 
 ## **Access the Interactive Map**
 Explore the climate trends in detail with our ArcGIS StoryMap:
-[**ArcGIS StoryMap: Coastal vs. Inland Climate Trends**]([https://storymaps.arcgis.com/stories/c77afddb483b4505aeb5386bebe24a83])
+[**ArcGIS StoryMap: Coastal vs. Inland Climate Trends**](https://storymaps.arcgis.com/stories/c77afddb483b4505aeb5386bebe24a83)
 
 ---
 
