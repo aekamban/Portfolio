@@ -55,3 +55,59 @@ Explore the climate trends in detail with our ArcGIS StoryMap:
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/yourusername/climate-data-analysis.git
+
+# Business Data Analysis: Optimizing Restaurant Demand Forecasting and Customer Experience
+
+This project focuses on analyzing customer order data from a food aggregator platform to identify demand trends across various restaurants and improve business decision-making. Leveraging PostgreSQL, Python, and Tableau, this analysis provides actionable insights to optimize restaurant partnerships and enhance customer experience.
+
+---
+
+## **Project Overview**
+This study examines:
+- Demand trends for restaurants across different time periods and locations.
+- Customer ordering behavior based on preferences, delivery times, and ratings.
+- Operational efficiency improvements to reduce delivery times and cancellations.
+
+Key methodologies include:
+- **Data Processing**: Using PostgreSQL for data extraction, cleaning, and transformation.
+- **Exploratory Data Analysis**: Python (Pandas, NumPy) to uncover demand trends and performance insights.
+- **Data Visualization**: Tableau dashboards to present key findings and actionable insights.
+
+---
+
+## **Key Features**
+- **Demand Trend Analysis**: Identification of peak demand times and high-performing restaurant categories.
+- **Customer Segmentation**: Insights into ordering behavior to optimize marketing strategies.
+- **Operational Efficiency Optimization**: Recommendations to improve delivery times and customer satisfaction.
+
+---
+
+## **Key Insights**
+- Peak demand occurs during lunch hours on weekdays, with specific cuisine types driving high order volumes.
+- Restaurants with the highest ratings tend to experience lower order cancellations and higher repeat customers.
+- Optimizing delivery routes based on order clusters can reduce average delivery time by 15%.
+
+---
+
+## **Repository Contents**
+- **Data**: Processed dataset in CSV format, ready for analysis.
+  - `restaurant_orders_data.csv`
+- **Code**: Python scripts for statistical analysis and visualization.
+  - `business_data_analysis.ipynb`: Jupyter Notebook covering data processing and insights.
+- **Figures**: Visualizations showcasing demand trends and operational performance.
+  - `demand_by_cuisine_type.png`
+  - `customer_retention_analysis.png`
+- **Documentation**: Detailed workflow and methodologies used in the analysis.
+
+---
+
+## **Access the Interactive Dashboard**
+Explore the demand trends and insights through our interactive Tableau dashboard:
+[**Business Tableau Dashboard: Optimizing Restaurant Demand Forecasting and Customer Experience**](https://storymaps.arcgis.com/stories/c77afddb483b4505aeb5386bebe24a83)
+
+---
+
+## **How to Use This Repository**
+1. Clone the repository to your local machine:
+   ```bash
+  git clone https://github.com/yourusername/business-data-analysis.git
