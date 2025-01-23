@@ -54,7 +54,7 @@ Explore the climate trends in detail with our ArcGIS StoryMap:
 ## **How to Use This Repository**
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/climate-data-analysis.git
+   git clone https://github.com/aekamban/climate-data-analysis.git
 
 # Business Data Analysis: Optimizing Restaurant Demand Forecasting and Customer Experience
 
@@ -110,4 +110,5 @@ Explore the demand trends and insights through our interactive Tableau dashboard
 ## **How to Use This Repository**
 1. Clone the repository to your local machine:
    ```bash
-  git clone https://github.com/yourusername/business-data-analysis.git
+   git clone https://github.com/aekamban/business-data-analysis.git
+
