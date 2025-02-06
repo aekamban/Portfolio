@@ -1,5 +1,61 @@
 # Portfolio
 
+# Investment Strategy Optimization: Predicting Retail Chain Profitability
+
+This project leverages machine learning and financial analytics to forecast store profitability for InstaMart, a supermarket chain. The analysis helps guide investment and expansion decisions by identifying key factors that drive revenue performance across store locations, sizes, and city tiers. By applying Linear Regression and Random Forest models, this project provides data-driven insights into optimizing future investments.
+
+---
+
+## **Project Overview**
+This study examines:
+- Profitability drivers across different store attributes, including location, size, and type.
+- Investment decision-making by identifying high-performing stores and those with growth potential.
+- Forecasting future revenue to support expansion and strategic business planning.
+
+Key methodologies include:
+- **Data Preprocessing**: Feature engineering to create relevant financial indicators, such as store age.
+- **Exploratory Data Analysis**: Statistical insights to determine the impact of store characteristics on profitability.
+- **Machine Learning Models**: Linear Regression and Random Forest to predict store revenue and guide investment decisions.
+
+  ---
+
+## **Key Features**
+- **Revenue Forecasting**: Predictive models to estimate store profitability for strategic investment.
+- **Investment Decision Optimization**: Identification of high-revenue stores for expansion and underperforming stores for improvement.
+- **Financial Insights Dashboard**: Visualizations of profitability trends to support data-driven decision-making.
+
+  ---
+
+## **Key Insights**
+- Store age and location significantly impact profitability, with **Tier 2 cities generating the highest revenue**.
+- Supermarket chains with **medium-sized locations perform better** than small or large stores.
+- Random Forest outperforms Linear Regression, capturing non-linear relationships in profitability trends.
+- Investment strategies should **prioritize expanding in Tier 2 cities** and **optimizing high-revenue stores** for long-term growth.
+
+  ---
+
+## **Repository Contents**
+- **Data**: Processed datasets in CSV format, ready for analysis.
+  - `supermarket_data.csv`
+- **Code**: Python scripts for statistical analysis and machine learning models.
+  - `investment_strategy_analysis.ipynb`: Jupyter Notebook for for forecasting and model evaluation.
+- **Figures**: Visualizations showcasing revenue trends and investment recommendations.
+  - `profitability_by_store_type.png`
+  - `investment_recommendations.png`
+- **Documentation**: Detailed workflow and methodologies used in the analysis.
+
+---
+
+## **How to Use This Repository**
+Clone the repository to your local machine:
+ ```bash
+   git clone https://github.com/aekamban/investment-strategy-analysis.git
+```
+
+🚀 Explore how data science drives smarter investment decisions in the retail sector!
+
+---
+
 # Climate Data Analysis: Coastal vs. Inland Regions in the Northeastern U.S.
 
 This project explores a decade of climate trends (2013–2023) using NOAA's GSOD data to compare temperature and precipitation patterns between coastal and inland regions of the Northeastern United States. The analysis combines ArcGIS visualizations, statistical techniques, and storytelling to provide actionable insights into regional climate dynamics.
@@ -52,9 +108,12 @@ Explore the climate trends in detail with our ArcGIS StoryMap:
 ---
 
 ## **How to Use This Repository**
-1. Clone the repository to your local machine:
+Clone the repository to your local machine:
    ```bash
    git clone https://github.com/aekamban/climate-data-analysis.git
+```
+
+---
 
 # Business Data Analysis: Optimizing Restaurant Demand Forecasting and Customer Experience
 
@@ -108,7 +167,8 @@ Explore the demand trends and insights through our interactive Tableau dashboard
 ---
 
 ## **How to Use This Repository**
-1. Clone the repository to your local machine:
+Clone the repository to your local machine:
    ```bash
    git clone https://github.com/aekamban/business-data-analysis.git
+```
 
