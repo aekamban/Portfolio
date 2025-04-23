@@ -1,5 +1,29 @@
 # Portfolio
 
+# Diabetes Risk Prediction with Machine Learning
+This project applies classification models (Logistic Regression, Random Forest, XGBoost) to predict diabetes based on patient demographics. Techniques include SMOTE for class balance, SHAP for feature interpretation, and model tuning with cross-validation.  
+
+Focus: Health data, class imbalance handling, medical ML ethics  
+Files: Diabetes_Risk_Prediction.ipynb
+
+ ---
+
+# House Price Prediction – Boston Housing Dataset
+Explores the relationship between housing prices and socioeconomic factors using regression models. Techniques include VIF analysis, log transformations, Ridge/Lasso/Random Forest/CatBoost models, and GridSearchCV optimization.  
+
+Focus: Regression, interpretability, investment analytics  
+Files: Machine_Learning_for_House_Price_Prediction.ipynb
+
+ ---
+ 
+# Used Car Price Prediction
+Modeled resale values of used cars using regression techniques (Linear, Lasso, RF, XGBoost). Focused on data cleaning, outlier treatment, and model comparison to aid pricing strategy.  
+
+Focus: EDA, pricing analytics, dealership strategy  
+Files: Predicting Used Car Prices with Machine Learning.ipynb
+
+---
+
 # Investment Strategy Optimization: Predicting Retail Chain Profitability
 
 This project leverages machine learning and financial analytics to forecast store profitability for InstaMart, a supermarket chain. The analysis helps guide investment and expansion decisions by identifying key factors that drive revenue performance across store locations, sizes, and city tiers. By applying Linear Regression and Random Forest models, this project provides data-driven insights into optimizing future investments.
